@@ -1,0 +1,22 @@
+body{
+    background-color: #003a6e;
+    color: white;
+
+}
+
+.cardNote{
+    background-color: #e52b0d;
+    border-radius: 20px;
+    font-size: 19px;
+    color: whitesmoke;
+}
+
+#heading{
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 13px;
+}
+.card{
+    background-color: #120c0c;
+    border-radius: 22px;
+}
