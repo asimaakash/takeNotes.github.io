@@ -20,3 +20,11 @@ body{
     background-color: #120c0c;
     border-radius: 22px;
 }
+
+@media (max-width: 570px){
+
+    #heading{
+        text-align: center;
+        font-size: 40px;
+    }
+    }
